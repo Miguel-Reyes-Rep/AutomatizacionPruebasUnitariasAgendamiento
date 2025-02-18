@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Agregar</name>
+   <tag></tag>
+   <elementGuidId>b325a878-3402-4ba0-a38b-e6a916fc11e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.btnIcon-01</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.btnIcon-01</value>
+      <webElementGuid>bbae1432-7ad5-4335-8dbb-b7cb93c4e40d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

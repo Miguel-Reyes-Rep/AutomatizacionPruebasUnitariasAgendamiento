@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Parametrizacin SIN elemento y SIN nefroproteccion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>089d3fd0-6e0d-4e51-adc6-adfea501f1d1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item_Categoria</name>
+   <tag></tag>
+   <elementGuidId>fc24ad83-2dfe-493e-aee0-ff44fe0f2970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.itemSelect:nth-child(19)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.itemSelect:nth-child(19)</value>
+      <webElementGuid>9b4cf147-a2bc-4662-b01e-6df080b4b0c3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

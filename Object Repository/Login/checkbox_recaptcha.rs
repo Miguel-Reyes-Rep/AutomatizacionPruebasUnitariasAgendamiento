@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_recaptcha</name>
+   <tag></tag>
+   <elementGuidId>a16e36bc-c8a9-4ca2-848c-07fa64927b1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.recaptcha-checkbox-border</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.recaptcha-checkbox-border</value>
+      <webElementGuid>f5699c26-f7d5-48e4-8453-eaf9e7355c38</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

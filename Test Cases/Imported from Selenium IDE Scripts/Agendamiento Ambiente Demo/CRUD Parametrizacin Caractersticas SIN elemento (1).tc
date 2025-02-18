@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRUD Parametrizacin Caractersticas SIN elemento (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5cdf05d-ece0-4c4b-b0ea-3340ea82cf47</testCaseGuid>
+</TestCaseEntity>

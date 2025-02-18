@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Descripcion</name>
+   <tag></tag>
+   <elementGuidId>82e72bb5-76bf-4b50-964e-9000ebde82e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#inputBasedescriptionundefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#inputBasedescriptionundefined</value>
+      <webElementGuid>7449c20d-cbcc-4f05-8792-8959f6b7f0d1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

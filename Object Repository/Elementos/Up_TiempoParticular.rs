@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Up_TiempoParticular</name>
+   <tag></tag>
+   <elementGuidId>72e1f9fa-db46-44b5-b093-37c80d4e3530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.right-icon1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.right-icon1</value>
+      <webElementGuid>79310a76-9de6-4c1d-b21f-5e819d8cfa94</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

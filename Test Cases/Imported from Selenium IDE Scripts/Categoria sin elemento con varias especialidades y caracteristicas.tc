@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Categoria sin elemento con varias especialidades y caracteristicas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0ac6e71-64c1-4fc4-93c3-b6f97818a4e4</testCaseGuid>
+</TestCaseEntity>

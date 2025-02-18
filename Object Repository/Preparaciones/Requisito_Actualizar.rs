@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Requisito_Actualizar</name>
+   <tag></tag>
+   <elementGuidId>cbe3794e-4a04-44ab-a02f-acff70f15f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#mat-tab-label-1-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#mat-tab-label-1-2</value>
+      <webElementGuid>07956ad7-d1d2-4a4c-bd8a-2247b88c3c45</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Administracin  Usuarios</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f255b06-21ab-4ad0-877d-3c1dbc574b82</testCaseGuid>
+</TestCaseEntity>

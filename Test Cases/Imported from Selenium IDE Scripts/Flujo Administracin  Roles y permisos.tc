@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Administracin  Roles y permisos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eda48514-c9a1-43a7-b568-ab99a320ee18</testCaseGuid>
+</TestCaseEntity>

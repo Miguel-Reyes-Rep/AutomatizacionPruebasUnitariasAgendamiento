@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item_Elementos</name>
+   <tag></tag>
+   <elementGuidId>03c66d3d-cd05-4aad-b468-962603f8b54b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>input.mdc-checkbox__native-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>input.mdc-checkbox__native-control</value>
+      <webElementGuid>64bca3df-144b-4ebb-bced-2126495962e9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

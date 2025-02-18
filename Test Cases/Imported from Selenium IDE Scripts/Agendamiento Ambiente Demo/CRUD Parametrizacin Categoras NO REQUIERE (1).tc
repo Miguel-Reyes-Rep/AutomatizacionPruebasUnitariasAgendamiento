@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRUD Parametrizacin Categoras NO REQUIERE (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c00c636-8ed7-42be-9074-d259094b0ac6</testCaseGuid>
+</TestCaseEntity>

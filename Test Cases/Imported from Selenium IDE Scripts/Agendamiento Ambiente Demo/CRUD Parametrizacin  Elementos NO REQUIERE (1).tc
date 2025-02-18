@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRUD Parametrizacin  Elementos NO REQUIERE (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53d46651-2d6f-4337-a0ea-50e4a792c2f1</testCaseGuid>
+</TestCaseEntity>

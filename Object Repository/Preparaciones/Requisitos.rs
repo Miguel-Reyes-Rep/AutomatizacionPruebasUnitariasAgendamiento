@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Requisitos</name>
+   <tag></tag>
+   <elementGuidId>4ca0b9f8-1b2f-4e79-9ddb-b03b7490ec1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#mat-tab-label-0-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#mat-tab-label-0-2</value>
+      <webElementGuid>a42c2df4-d8e7-49f8-9c52-917c6dab8535</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

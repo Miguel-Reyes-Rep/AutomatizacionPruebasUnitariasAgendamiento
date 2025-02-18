@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Permisos</name>
+   <tag></tag>
+   <elementGuidId>368d35eb-d7bd-4c19-9506-8182758d0ef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#cont_card>app-rol-list>div>div>div.table-cont>app-tabla-comun>div>div>table>tbody>tr:last-child>td:nth-child(3)>div>mat-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#cont_card>app-rol-list>div>div>div.table-cont>app-tabla-comun>div>div>table>tbody>tr:last-child>td:nth-child(3)>div>mat-icon</value>
+      <webElementGuid>d2d0d804-0e88-43eb-8bab-a592663a171b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

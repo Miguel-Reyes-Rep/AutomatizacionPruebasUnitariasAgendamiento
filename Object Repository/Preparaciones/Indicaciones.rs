@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Indicaciones</name>
+   <tag></tag>
+   <elementGuidId>42c2e178-0a1d-4bd2-a56a-f8aff0d61b1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#inputBaseindicationsundefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#inputBaseindicationsundefined</value>
+      <webElementGuid>06cacbf9-2778-4fb7-bee4-6e5f574fa233</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

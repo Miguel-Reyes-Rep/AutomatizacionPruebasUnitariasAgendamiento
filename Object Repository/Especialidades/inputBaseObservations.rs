@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputBaseObservations</name>
+   <tag></tag>
+   <elementGuidId>52c5d714-0d2e-417d-8b2b-636e83e7f429</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>inputBaseObservations</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#inputBaseobservationsundefined</value>
+      <webElementGuid>46b08a33-6a64-4402-a348-33b3dca0e543</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
